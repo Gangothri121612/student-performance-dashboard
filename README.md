@@ -1,9 +1,11 @@
 Student Performance Analysis Dashboard
+=======================================
 Overview
-
-This project is an interactive Power BI dashboard developed to analyze student academic performance.
+---------
+This project is an interactive Power BI dashboard developed to analyze student academic performance, attendance, and CGPA trends.
 
 Features
+--------
 Total Students KPI
 Average Attendance KPI
 Average CGPA KPI
@@ -14,11 +16,12 @@ Average CGPA by Branch
 Branch and Gender Filters
 Tools Used
 Power BI
-Excel
-Dashboard Preview
+Microsoft Excel
 
+Dashboard Preview
+-----------------
 Refer to StudentDashboard.png for the dashboard screenshot.
 
 Author
-
+-------
 Gangothri
